@@ -3,9 +3,6 @@ import SwapListMultipleElement from "./Basic_prog/SwapListMultipleElement";
 import SwapListSingleElement from "./Basic_prog/SwapListSingleElement";
 
 
-
-
-
 const App = () => {
   return (
     <div>
